@@ -35,7 +35,14 @@ npm run build
  ```
  git add . 
  ```
- 
+#### Crear branch (Una sola vez)
+ ```
+ git branch -M main
+ ```
+#### Crear remote add (Una sola vez)
+ ```
+ git remote add origin https://github.com/silvercrow26/webpack-start.git
+ ```
 #### Confirma la instantanea de todos los cambios:
  ```
  git commit -m "inicio proyecto"
