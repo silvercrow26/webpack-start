@@ -49,7 +49,7 @@ npm run build
  ```
 #### Recuperar proyecto:
  ```
- git push
+ git push (-u origin main)
  ```
 
 #### Recuperar proyecto:
